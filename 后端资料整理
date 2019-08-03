@@ -73,6 +73,10 @@
 28. [集群管理工具KafkaAdminClient——原理与示例
 ](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw==&mid=2247483940&idx=1&sn=cab0bb9feea923d7e5b598d9810996f9&chksm=fb0be8b0cc7c61a62f02a0efb3015b1aeb5776d8b806e590b249521c42b0b59b6bd0f42ec69e&token=1885824046&lang=zh_CN#rd)
 29. [Kafka解析之失效副本](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw==&mid=2247483737&idx=1&sn=776ba88551849157b3798dc2d72c7f4e&chksm=fb0bebcdcc7c62db2bd14db3b8819c63b5c57c5fdbe7bb3d5a5ee95843f6567b0dcdd6836d57&token=1885824046&lang=zh_CN#rd)
+30. [[Kafka与Spark集成系列一] Spark入门](https://blog.csdn.net/u013256816/article/details/82081946)
+31. [[Kafka与Spark集成系列二] Spark的安装及简单应用](https://blog.csdn.net/u013256816/article/details/82082019)
+32. [[Kafka与Spark集成系列三] Spark编程模型](https://blog.csdn.net/u013256816/article/details/82082109)
+33. [[Kafka与Spark集成系列四] Spark运行结构](https://blog.csdn.net/u013256816/article/details/82082146)
 
 
 
@@ -234,4 +238,68 @@
 2. [RabbitMQ存储机制](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw==&mid=2247483828&idx=1&sn=83ffedb5d96797a02e796711d2365803&chksm=fb0beb20cc7c6236c823307edac52852f09a6cd7e8316e381f701ee0ea848a93b41b32b08292&token=1885824046&lang=zh_CN#rd)
 3. [RabbitMQ之惰性队列（Lazy Queue）](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw==&mid=2247483811&idx=1&sn=695f9aea9b4f6b76c1242431d603949e&chksm=fb0beb37cc7c6221bffd9fc3a51a607b7b5ca4d663ef9baef3fa4fa31c8e6671d71262db4836&token=1885824046&lang=zh_CN#rd)
 4. [RabbitMQ演讲稿（精简版）](https://mp.weixin.qq.com/s?__biz=MzU0MzQ5MDA0Mw==&mid=2247483776&idx=1&sn=1168c511dce78973f3265bba84eba53a&chksm=fb0beb14cc7c62025a63c24603b8bc37c0d49031b7bc1975b700382498cc3c596e1a8a32dc47&token=1885824046&lang=zh_CN#rd)
+
+### **运维**
+1. [RabbitMQ常用命令](http://blog.csdn.net/u013256816/article/details/53524814)
+2. [RabbitMQ的安装及集群搭建方法](http://blog.csdn.net/u013256816/article/details/53524766)
+3. [RabbitMQ单机多实例配置](http://blog.csdn.net/u013256816/article/details/53264715)
+4. [RabbitMQ的元数据重建](http://blog.csdn.net/u013256816/article/details/73135469)
+5. [RabbitMQ负载均衡（1）](http://blog.csdn.net/u013256816/article/details/77131753)
+6. [RabbitMQ负载均衡（2）——HAProxy](http://blog.csdn.net/u013256816/article/details/77150922)
+7. [RabbitMQ负载均衡（3）——Keepalived+HAProxy实现高可用的负载均衡](http://blog.csdn.net/u013256816/article/details/77171017)
+8. [RabbitMQ负载均衡（4）——LVS](http://blog.csdn.net/u013256816/article/details/77203491)
+9. [RabbitMQ管理（1）——多租户与权限](http://blog.csdn.net/u013256816/article/details/78108321)
+10. [RabbitMQ管理（2）——用户管理](http://blog.csdn.net/u013256816/article/details/78181306)
+11. [RabbitMQ管理（3）——Web端管理](http://blog.csdn.net/u013256816/article/details/78199082)
+12. [RabbitMQ管理（4）——应用管理](http://blog.csdn.net/u013256816/article/details/78221439)
+13. [RabbitMQ管理（5）——集群管理](http://blog.csdn.net/u013256816/article/details/78348761)
+
+### **监控**
+1. [RabbitMQ之监控(1)](http://blog.csdn.net/u013256816/article/details/60967078)
+2. [RabbitMQ之监控(2)](http://blog.csdn.net/u013256816/article/details/77825948)
+3. [RabbitMQ之监控(3)](http://blog.csdn.net/u013256816/article/details/77843308)
+
+### **基础概念及原理**
+1. [RabbitMQ基础概念详解](http://blog.csdn.net/u013256816/article/details/59117354)
+3. [RabbitMQ之mandatory和immediate](http://blog.csdn.net/u013256816/article/details/54914525)
+4. [RabbitMQ之TTL（Time-To-Live 过期时间）](http://blog.csdn.net/u013256816/article/details/54916011)
+5. [RabbitMQ之死信队列](http://blog.csdn.net/u013256816/article/details/54933065)
+6. [RabbitMQ之队列优先级](http://blog.csdn.net/u013256816/article/details/55105495)
+7. [RabbitMQ如何实现延迟队列？](http://blog.csdn.net/u013256816/article/details/55106401)
+8. [RabbitMQ之RPC实现](http://blog.csdn.net/u013256816/article/details/55218595)
+9. [ RabbitMQ之消息确认机制（事务+Confirm）](http://blog.csdn.net/u013256816/article/details/55515234)
+10. [RabbitMQ之消息持久化](http://blog.csdn.net/u013256816/article/details/60875666)
+11. [RabbitMQ之Consumer消费模式（Push & Pull）](http://blog.csdn.net/u013256816/article/details/62890189)
+12. [RabbitMQ之镜像队列](http://blog.csdn.net/u013256816/article/details/71097186)
+13. [学会查看 RabbitMQ日志](http://blog.csdn.net/u013256816/article/details/74858059)
+14. [RabbitMQ消息追踪之Firehose](http://blog.csdn.net/u013256816/article/details/76038878)
+15. [RabbitMQ消息追踪之rabbitmq_tracing](http://blog.csdn.net/u013256816/article/details/76039201)
+16. [RabbitMQ之惰性队列（Lazy Queue）](http://blog.csdn.net/u013256816/article/details/77987216)
+17. [RabbitMQ消息可靠性分析](http://blog.csdn.net/u013256816/article/details/79147591)
+
+
+
+### **网络分区**
+1. [RabbitMQ脑裂](http://blog.csdn.net/u013256816/article/details/53291907)
+2. [RabbitMQ Network Partitions 服务日志对比](http://blog.csdn.net/u013256816/article/details/73693233)
+3. [RabbitMQ Network Partitions](http://blog.csdn.net/u013256816/article/details/53588206)
+4. [RabbitMQ Network Partitions 处理策略](http://blog.csdn.net/u013256816/article/details/73757884)
+5. [模拟RabbitMQ网络分区](http://blog.csdn.net/u013256816/article/details/74998896)
+
+### **官方文档翻译**
+2. [Java Client API Guide](http://blog.csdn.net/u013256816/article/details/71342274)
+3. [Highly Available (Mirrored) Queues](http://blog.csdn.net/u013256816/article/details/71682447)
+
+### **rabbitmq-java-client解析**
+1. [[Conclusion]RabbitMQ-客户端源码之总结](http://blog.csdn.net/u013256816/article/details/70214929)
+2. [[一]RabbitMQ-客户端源码之ConnectionFactory](http://blog.csdn.net/u013256816/article/details/70214708)
+3. [[二]RabbitMQ-客户端源码之AMQConnection](http://blog.csdn.net/u013256816/article/details/70214730)
+4. [[三]RabbitMQ-客户端源码之ChannelManager](http://blog.csdn.net/u013256816/article/details/70214754)
+5. [[四]RabbitMQ-客户端源码之Frame](http://blog.csdn.net/u013256816/article/details/70214776)
+6. [[五]RabbitMQ-客户端源码之AMQChannel](http://blog.csdn.net/u013256816/article/details/70214791)
+7. [[六]RabbitMQ-客户端源码之AMQCommand](http://blog.csdn.net/u013256816/article/details/70214811)
+8. [[七]RabbitMQ-客户端源码之AMQPImpl+Method](http://blog.csdn.net/u013256816/article/details/70214835)
+9. [[八]RabbitMQ-客户端源码之ChannelN](http://blog.csdn.net/u013256816/article/details/70214863)
+10. [[九]RabbitMQ-客户端源码之Consumer](http://blog.csdn.net/u013256816/article/details/70214903)
+11. [为什么QueueingConsumer会被Deprecated?](http://blog.csdn.net/u013256816/article/details/71342622)
 
