@@ -53,6 +53,7 @@
 50. [[九]RabbitMQ-客户端源码之Consumer](http://blog.csdn.net/u013256816/article/details/70214903)
 51. [为什么QueueingConsumer会被Deprecated?](http://blog.csdn.net/u013256816/article/details/71342622)
 
-RabbitMQ书籍 豆瓣评分：8.9
+RabbitMQ书籍 
+1. [《RabbitMQ实战指南》](https://item.jd.com/12277834.html) 2017-12 豆瓣评分：8.9
 2. [《RabbitMQ实战》](https://item.jd.com/11790530.html) 2012年英文原版翻译版 豆瓣评分：7.1
 3. [《深入RabbitMQ》](https://item.jd.com/12375424.html) 2014年英文原版翻译版 豆瓣评分：无
